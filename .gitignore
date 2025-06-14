@@ -95,6 +95,9 @@ target/
 profile_default/
 ipython_config.py
 
+data_process/lib/faceverse_process/BgMatting_models/rvm_resnet50_fp32.torchscript
+data_process/lib/faceverse_process/metamodel/v3/faceverse_v3_1.npy
+
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
