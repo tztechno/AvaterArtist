@@ -92,6 +92,19 @@ KUMAPOWER/AvatarArtist \
 --local-dir pretrained_model
 ```
 
+The file faceverse_v3_1.npy is required to run this project, but it is not included in the repository due to its large size.
+
+Please manually download it from the following Google Drive link, and place it in both of the following paths:
+
+👉 [Download `faceverse_v3_1.npy` from Google Drive](https://drive.google.com/file/d/1u4abqiE81_fVxHMznzwwhaTLRbblpMtx/view?usp=drive_link)
+
+After downloading, copy the file to the following locations:
+
+```
+data_process/lib/faceverse_process/metamodel/v3/faceverse_v3_1.npy
+data_process/lib/FaceVerse/v3/faceverse_v3_1.npy
+```
+
 ## 🚀 Demo
 
 Welcome to our demo! 🎉  
